@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "cross-env": "^10.1.0",
     "direction-reveal": "^2.0.2"
   }
 }
