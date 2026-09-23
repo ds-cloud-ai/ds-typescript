@@ -1,2 +1,2 @@
 # ds-typescript
-Portfolio as a TypeScript developer
+Portfolio for a TypeScript developer
